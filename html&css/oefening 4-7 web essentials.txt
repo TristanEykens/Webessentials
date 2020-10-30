@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="../Users/12000866/WebstormProjects/untitled1/css/stijl.css">
+</head>
+<body>
+<h1>PXL</h1>
+<div>
+  <p>Hogeschool PXL is een hogeschool in Belgisch Limburg, verdeeld in <b>negen </Br>departmenten</b>, met diverse campussen verspreid over de </br>gemeenten Hasselt, Genk en Diepenbeek.</p>
+</div>
+<div>
+<p>Het is een zelfstandige hogeschool met een openbaar en pluriform karakter<sup>1</sup>,</Br> elk onderijsnet is daarbij vertegenwoordigd in de <b>Raad van Toezicht</b>.</br> De hogeschool behoort samen met de Universiteit Hasselt to de Associatie </br>Universiteit-Hogescholen Limburg, en heeft een strategisch </br>Samenwerkingsverband met de Associatie KU Leuven.
+</div>
+<h2>Catering</h2>
+<div>
+  <p><u>Beste studentenrestaurant</u>i van Limburg en omstreken.</p>
+</div>
+
+</body>
+</html>
